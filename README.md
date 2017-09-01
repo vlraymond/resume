@@ -9,9 +9,9 @@ BA Cultural Studies, Hampshire College (2005)
 ### Project Manager, Geographic Information Network of Alaska  
 Fairbanks, AK  
 
-● Project management for web-based geospatial products, software development, app development, cyber infrastructure, Arctic and IT security projects  
-● Strategic planning  
-● User stories, user experience, documentation, client communication  
+- Project management for web-based geospatial products, software development, app development, cyber infrastructure, Arctic and IT security projects  
+- Strategic planning  
+- User stories, user experience, documentation, client communication  
   
 Current and Past Projects:  
 Arctic Adaptation Exchange (AAE) web portal  
@@ -29,13 +29,13 @@ Tools I use (in no particular order): Google Drive suite, Basecamp, Wrike, Githu
 ### Operations Manager, Dimagi Inc.  
 Cambridge, MA  
 Served in key operations role directly reporting to COO of global open source health management platform. Created and implemented a variety of company-wide initiatives in response to fast growth global tech environment (25 - 80+ employees). Coordinated operations at US headquarters in concert with field staff in Asia and Africa. Areas of responsibility included:  
-● Predicting and detecting emerging company-wide problems  
-● Researching platforms and methods for addressing challenges in payments, insurance,
+- Predicting and detecting emerging company-wide problems  
+- Researching platforms and methods for addressing challenges in payments, insurance,
 communication, and coordinating of company policy  
-● Presenting and discussing findings with COO and CEO, as well as field operations staff  
-● Communicating smooth and definitive rollout of company-wide procedures (primarily
+- Presenting and discussing findings with COO and CEO, as well as field operations staff  
+- Communicating smooth and definitive rollout of company-wide procedures (primarily
 through web-based tools) for HR, payroll, med-evac, insurance, and emergency processes.  
-● Managing daily operations including vendor and client relations, leading recruiting and
+- Managing daily operations including vendor and client relations, leading recruiting and
 people operations, liaising with state tax offices, addressing employee HR issues, posting to web and social media, and triaging all problems big and small.  
   
 Softwares used: Confluence (internal wiki), Skype, Frogbugz (bug tracking), Wordpress, Paypal, ADP Payroll  
